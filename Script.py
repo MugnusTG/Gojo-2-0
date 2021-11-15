@@ -4,7 +4,7 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈👋 {}
 ഒന്നു പോയെടെ help click ചെയ്തു വനോളും 𝙸𝚊𝚖 𝚍𝚒𝚏𝚏𝚎𝚛𝚎𝚗𝚝 𝚋𝚘𝚝 𝚢𝚘𝚞 𝚔𝚗𝚘𝚠😤."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-➪ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/cinemahubmoviesS>Cinema Hub</a>
+➪ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/MagnusTG>Magnus TG 🇮🇳</a>
 ➪ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ➪ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴: <a href=https://t.me/hagayhwvwhtf>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
 ➪ 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 : 𝙴𝚟𝚎𝚛𝚢𝚘𝚗𝚎 𝚒𝚗 𝚝𝚑𝚒𝚜 𝚓𝚘𝚞𝚛𝚗𝚎𝚢
