@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/EvamariaTG/EvaMaria",
-    "repository": "https://github.com/EvamariaTG/EvaMaria",
+    "website": "https://github.com/ateinstein12/Gojo-2-0",
+    "repository": "https://github.com/ateinstein12/Gojo-2-0",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
